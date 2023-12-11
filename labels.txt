@@ -1,0 +1,7 @@
+0 10_note 
+1 20_note 
+2 50_note 
+3 100_note 
+4 500_note 
+5 1000_note 
+6 5000_note 
